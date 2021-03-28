@@ -5,7 +5,10 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import {syuanUtils} from 'syuanpackage'
+console.log(syuanUtils, 'syuanUtils')
 
+console.log(HelloWorld, 'HelloWorld')
 export default {
   name: 'App',
   components: {

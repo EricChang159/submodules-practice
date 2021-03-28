@@ -1,0 +1,3 @@
+[submodule "syuanPackage"]
+	path = subModules/syuanPackage
+	url = https://github.com/EricChang159/syuanPackage
