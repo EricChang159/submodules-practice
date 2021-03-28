@@ -1,4 +1,4 @@
-[submodule "syuanPackage"]
+[submodule "subModules/syuanPackage"]
 	path = subModules/syuanPackage
 	url = https://github.com/EricChang159/syuanPackage
-	branch = master
+    branch = master
